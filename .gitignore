@@ -1,6 +1,5 @@
 HELP.md
 application.properties
-images
 target/
 !.mvn/wrapper/maven-wrappger.jar
 !**/src/main/**/target/
