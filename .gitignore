@@ -1,12 +1,8 @@
 HELP.md
 application.properties
-images/user-create.jpg
-images/user-created.jpg
-images/user-update.jpg
-images/user-updated.jpg
-images/users.jpg
+images
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrappger.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
