@@ -1,6 +1,6 @@
 # CRUDspringMVC
 
-this is a simple CRUD application
+This is a simple CRUD application
 
 This is a list of users:
 
