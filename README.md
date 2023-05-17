@@ -8,14 +8,14 @@ This is a list of users:
 
 Create button:
 
-![create button](images/user-create.jpg)
+![create_button](images/user-create.jpg)
 
 
-![create button](images/user-created.jpg)
+![create_button2](images/user-created.jpg)
 
 Edit button:
 
-![edit button](images/user-update.jpg)
+![edit_button](images/user-update.jpg)
 
 
-![edit button](images/user-updated.jpg)
+![edit_button2](images/user-updated.jpg)
